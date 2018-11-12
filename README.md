@@ -1,0 +1,2 @@
+# ping_pong_python
+Pythonによるピンポンゲームの実装
